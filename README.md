@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">A frontend developer with ambitions to become an expert in my field</h3>
 
-- 👨‍💻 All of my projects are available at [placeholder.com](placeholder.com)
+- 👨‍💻 All of my projects are available at [akurashkevich.github.io/portfolio/](https://akurashkevich.github.io/portfolio/)
 
 - 📫 How to reach me **mr.kur.anton@gmail.com**
 
