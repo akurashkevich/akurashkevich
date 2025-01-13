@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mr.kur.anton@gmail.com**
 
-- 📄 Know about my experiences [placeholder.com](placeholder.com)
+- 📄 Know about my experiences in [resume](https://docs.google.com/document/d/1UaG96gDO0tnUjRf8YpBD3gRNK4DFjl9NqwpxKIT83xc/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
